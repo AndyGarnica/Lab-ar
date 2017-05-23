@@ -110,7 +110,7 @@ body {
 
 
 
-footer p a{
+footer p a, .last{
   color: #ffffff;
 }
 footer {
