@@ -50,6 +50,25 @@ body {
   display: inline-block;
   vertical-align:super;
 }
+#registro, #conductor {
+  color: #000;
+  background-color:rgb(240, 236, 239) ;
+  margin-top: 5%;
+}
+
+#descargaApp {
+  width: 100%;
+  padding: 0;
+}
+
+.app {
+  margin: 5% 15% 5% 0;
+  padding: 2%;
+  border: 2px solid #fff;
+  line-height: 1.5;
+  font-size: 1.2em;
+  color: #fff;
+}
 
 footer p a{
   color: #ffffff;
