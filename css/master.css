@@ -85,6 +85,31 @@ body {
     height: 750px;
 }
 
+#tarifas {
+    padding: 5%;
+    color: #ffffff;
+}
+
+#tarifas-1,
+#tarifas-2 {
+    padding: 5vw;
+}
+
+#tarifas-2 img, {
+    padding: 1.5vw;
+    width: 100%;
+    border: .12vw solid #fff;
+}
+
+#tarifas input, .form-control {
+    background-color: rgba(255, 255, 255, 0);
+    border: .12em solid #fff;
+    height: 3em;
+    color: #ffffff;
+}
+
+
+
 footer p a{
   color: #ffffff;
 }
