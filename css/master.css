@@ -50,3 +50,10 @@ body {
   display: inline-block;
   vertical-align:super;
 }
+
+footer p a{
+  color: #ffffff;
+}
+footer {
+  background: #333;
+}
