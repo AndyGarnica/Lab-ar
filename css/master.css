@@ -70,8 +70,20 @@ body {
   color: #fff;
 }
 
+#conduce {
+    background-image: url(../img/conduce.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 750px;
+}
 
-
+#conduce div div {
+  color: #ffffff;
+    background-color: rgba(0, 0, 0, 0.71);
+    padding: 15em 3em 5em;
+    height: 750px;
+}
 
 footer p a{
   color: #ffffff;
